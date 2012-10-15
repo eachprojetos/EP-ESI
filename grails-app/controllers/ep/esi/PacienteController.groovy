@@ -4,5 +4,5 @@ class PacienteController {
 
     /*def index() { }*/
 	
-	def scaffold = Paciente
+	def scaffold = Paciente;
 }
